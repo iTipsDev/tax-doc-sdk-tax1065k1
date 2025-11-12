@@ -1,0 +1,218 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "26-578-8152",
+  "taxFormId" : "0621127",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0408829",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Sanford, Carroll and Crona"
+    },
+    "address" : {
+      "line1" : "2573 Mason Parkways",
+      "city" : "North Lorettaberg",
+      "region" : "UT",
+      "postalCode" : "58352"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "harriette.bernier@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-35-9189",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Halley",
+      "last" : "O'Reilly"
+    },
+    "address" : {
+      "line1" : "79307 Wade Harbors",
+      "city" : "Zacherymouth",
+      "region" : "AZ",
+      "postalCode" : "46107"
+    },
+    "email" : "evan.walker@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "fiscalYearBegin" : "2025-06-03",
+  "fiscalYearEnd" : "2025-03-17",
+  "finalK1" : true,
+  "amendedK1" : true,
+  "irsCenter" : "irsCenter",
+  "publiclyTraded" : true,
+  "generalPartner" : true,
+  "limitedPartner" : true,
+  "domestic" : true,
+  "foreign" : true,
+  "disregardedEntity" : true,
+  "disregardedEntityTin" : "disregardedEntityTin",
+  "disregardedEntityName" : "disregardedEntityName",
+  "entityType" : "entityType",
+  "retirementPlan" : true,
+  "profitShareBegin" : 200.0,
+  "profitShareEnd" : 300.0,
+  "lossShareBegin" : 400.0,
+  "lossShareEnd" : 500.0,
+  "capitalShareBegin" : 600.0,
+  "capitalShareEnd" : 700.0,
+  "decreaseDueToSaleOrExchange" : true,
+  "decreaseDueToSale" : true,
+  "decreaseDueToExchange" : true,
+  "nonrecourseLiabilityShareBegin" : 800,
+  "nonrecourseLiabilityShareEnd" : 900,
+  "qualifiedLiabilityShareBegin" : 1000,
+  "qualifiedLiabilityShareEnd" : 1100,
+  "recourseLiabilityShareBegin" : 1200,
+  "recourseLiabilityShareEnd" : 1300,
+  "includesLowerTierLiability" : true,
+  "liabilitySubjectToGuarantees" : true,
+  "capitalAccountBegin" : 1400,
+  "capitalAccountContributions" : 1500,
+  "capitalAccountIncrease" : 1600,
+  "capitalAccountOther" : 1700,
+  "capitalAccountWithdrawals" : 1800,
+  "capitalAccountEnd" : 1900,
+  "builtInGain" : true,
+  "unrecognizedSection704Begin" : 2000,
+  "unrecognizedSection704End" : 2100,
+  "ordinaryIncome" : 2200,
+  "netRentalRealEstateIncome" : 2300,
+  "otherRentalIncome" : 2400,
+  "guaranteedPaymentServices" : 2500,
+  "guaranteedPaymentCapital" : 2600,
+  "guaranteedPayment" : 2700,
+  "interestIncome" : 2800,
+  "ordinaryDividends" : 2900,
+  "qualifiedDividends" : 3000,
+  "dividendEquivalents" : 3100,
+  "royalties" : 3200,
+  "netShortTermGain" : 3300,
+  "netLongTermGain" : 3400,
+  "collectiblesGain" : 3500,
+  "unrecaptured1250Gain" : 3600,
+  "net1231Gain" : 3700,
+  "otherIncome" : [ {
+    "code" : "P",
+    "amount" : 9100
+  } ],
+  "section179Deduction" : 3800,
+  "otherDeductions" : [ {
+    "code" : "Z",
+    "amount" : 9200
+  } ],
+  "selfEmployment" : [ {
+    "code" : "E",
+    "amount" : 9300
+  } ],
+  "credits" : [ {
+    "code" : "F",
+    "amount" : 9400
+  } ],
+  "scheduleK3" : true,
+  "amtItems" : [ {
+    "code" : "D",
+    "amount" : 9500
+  } ],
+  "taxExemptIncome" : [ {
+    "code" : "B",
+    "amount" : 9600
+  } ],
+  "distributions" : [ {
+    "code" : "D",
+    "amount" : 9700
+  } ],
+  "otherInfo" : [ {
+    "code" : "Y",
+    "amount" : 9800
+  } ],
+  "foreignTaxPaid" : 3900,
+  "multipleAtRiskActivities" : true,
+  "multiplePassiveActivities" : true,
+  "k1Supplemental" : {
+    "foreignPartnership" : true,
+    "farmActivity" : true,
+    "otherIncome" : {
+      "remicTaxableIncome" : 4000,
+      "remicExcessInclusion" : 4100,
+      "remicSection212" : 4200,
+      "recoveries" : 4300,
+      "gamblingWinnings" : 4400,
+      "gamblingLosses" : 4500,
+      "section751b" : 4600,
+      "speciallyAllocatedOrdinary" : 4700,
+      "speciallyAllocatedShortTerm" : 4800,
+      "speciallyAllocatedLongTerm" : 4900,
+      "speciallyAllocated28Percent" : 5000
+    },
+    "otherDeductions" : {
+      "taxes" : 5100,
+      "miscellaneous" : 5200,
+      "retirementPlanPayments" : 5300,
+      "planType" : "DEFINED_BENEFIT_PLAN"
+    },
+    "alternativeMinimumTax" : {
+      "leasedPropertyDepreciation" : 5400,
+      "realPropertyDepreciation" : 5500,
+      "oilAndGas" : {
+        "grossIncome" : 5600,
+        "deductions" : 5700,
+        "excessIdc" : 5800,
+        "excessDepletion" : 5900
+      },
+      "geothermal" : {
+        "grossIncome" : 6000,
+        "deductions" : 6100,
+        "excessIdc" : 6200,
+        "excessDepletion" : 6300
+      }
+    },
+    "interestIncome" : {
+      "usTreasuryInterest" : 6400,
+      "usTreasuryDividend" : 6500,
+      "taxExemptStateInterest" : 6600,
+      "privateActivityBondInterest" : 6700
+    }
+  },
+  "k1StatementA" : {
+    "qbiItems" : [ {
+      "businessDescription" : "businessDescription",
+      "publiclyTradedPartnership" : true,
+      "aggregated" : true,
+      "specifiedServiceBusiness" : true,
+      "ordinaryIncome" : 7100,
+      "rentalIncome" : 7200,
+      "royaltyIncome" : 7300,
+      "section1231Gain" : 7400,
+      "otherIncome" : 7500,
+      "section179Deduction" : 7600,
+      "otherDeductions" : 7700,
+      "w2Wages" : 7800,
+      "qualifiedPropertyUbia" : 7900
+    } ],
+    "reitDividends" : 6800,
+    "selfEmployedHealthInsurance" : 6900,
+    "selfEmployedRetirement" : 7000
+  },
+  "k1StatementC" : {
+    "qbiItems" : [ {
+      "businessDescription" : "businessDescription",
+      "publiclyTradedPartnership" : true,
+      "aggregated" : true,
+      "specifiedServiceBusiness" : true,
+      "ordinaryIncome" : 8300,
+      "rentalIncome" : 8400,
+      "royaltyIncome" : 8500,
+      "section1231Gain" : 8600,
+      "otherIncome" : 8700,
+      "section179Deduction" : 8800,
+      "otherDeductions" : 8900,
+      "w2Wages" : 9000
+    } ],
+    "section199AgDeduction" : 8000,
+    "selfEmployedHealthInsurance" : 8100,
+    "selfEmployedRetirement" : 8200
+  }
+}
