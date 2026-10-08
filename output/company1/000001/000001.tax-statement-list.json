@@ -1,0 +1,297 @@
+{
+  "statements" : [ {
+    "forms" : [ {
+      "tax1065K1" : {
+        "taxYear" : 2024,
+        "corrected" : false,
+        "accountId" : "15-391-1174",
+        "taxFormDate" : "2024-12-31",
+        "issuer" : {
+          "tin" : "00-0252228",
+          "partyType" : "BUSINESS",
+          "businessName" : {
+            "name1" : "Schulist-Erdman"
+          },
+          "address" : {
+            "line1" : "8707 Greenfelder Landing",
+            "city" : "Port Michell",
+            "region" : "GA",
+            "postalCode" : "93663"
+          },
+          "phone" : {
+            "number" : "555-867-5309",
+            "primary" : false
+          },
+          "email" : "see.dubuque@gmail.com"
+        },
+        "recipient" : {
+          "tin" : "000-27-2497",
+          "partyType" : "INDIVIDUAL",
+          "individualName" : {
+            "first" : "Gussie",
+            "last" : "Hills"
+          },
+          "address" : {
+            "line1" : "2231 Predovic Burgs",
+            "city" : "Kamalafort",
+            "region" : "CT",
+            "postalCode" : "02166"
+          },
+          "phone" : {
+            "primary" : false
+          },
+          "email" : "katelynn.kerluke@gmail.com"
+        },
+        "attributes" : [ ],
+        "links" : [ ],
+        "fiscalYearBegin" : "2024-07-04",
+        "fiscalYearEnd" : "2024-07-04",
+        "finalK1" : true,
+        "amendedK1" : true,
+        "irsCenter" : "irsCenter",
+        "publiclyTraded" : true,
+        "generalPartner" : true,
+        "limitedPartner" : true,
+        "domestic" : true,
+        "foreign" : true,
+        "disregardedEntity" : true,
+        "disregardedEntityTin" : "disregardedEntityTin",
+        "disregardedEntityName" : "disregardedEntityName",
+        "entityType" : "entityType",
+        "retirementPlan" : true,
+        "profitShareBegin" : 200.0,
+        "profitShareEnd" : 300.0,
+        "lossShareBegin" : 400.0,
+        "lossShareEnd" : 500.0,
+        "capitalShareBegin" : 600.0,
+        "capitalShareEnd" : 700.0,
+        "decreaseDueToSaleOrExchange" : true,
+        "decreaseDueToSale" : true,
+        "decreaseDueToExchange" : true,
+        "nonrecourseLiabilityShareBegin" : 800,
+        "nonrecourseLiabilityShareEnd" : 900,
+        "qualifiedLiabilityShareBegin" : 1000,
+        "qualifiedLiabilityShareEnd" : 1100,
+        "recourseLiabilityShareBegin" : 1200,
+        "recourseLiabilityShareEnd" : 1300,
+        "includesLowerTierLiability" : true,
+        "liabilitySubjectToGuarantees" : true,
+        "capitalAccountBegin" : 1400,
+        "capitalAccountContributions" : 1500,
+        "capitalAccountIncrease" : 1600,
+        "capitalAccountOther" : 1700,
+        "capitalAccountWithdrawals" : 1800,
+        "capitalAccountEnd" : 1900,
+        "builtInGain" : true,
+        "unrecognizedSection704Begin" : 2000,
+        "unrecognizedSection704End" : 2100,
+        "ordinaryIncome" : 2200,
+        "netRentalRealEstateIncome" : 2300,
+        "otherRentalIncome" : 2400,
+        "guaranteedPaymentServices" : 2500,
+        "guaranteedPaymentCapital" : 2600,
+        "guaranteedPayment" : 2700,
+        "interestIncome" : 2800,
+        "ordinaryDividends" : 2900,
+        "qualifiedDividends" : 3000,
+        "dividendEquivalents" : 3100,
+        "royalties" : 3200,
+        "netShortTermGain" : 3300,
+        "netLongTermGain" : 3400,
+        "collectiblesGain" : 3500,
+        "unrecaptured1250Gain" : 3600,
+        "net1231Gain" : 3700,
+        "otherIncome" : [ {
+          "code" : "E",
+          "amount" : 6900
+        } ],
+        "section179Deduction" : 3800,
+        "otherDeductions" : [ {
+          "code" : "J",
+          "amount" : 7000
+        } ],
+        "selfEmployment" : [ {
+          "code" : "X",
+          "amount" : 7100
+        } ],
+        "credits" : [ {
+          "code" : "D",
+          "amount" : 7200
+        } ],
+        "scheduleK3" : true,
+        "amtItems" : [ {
+          "code" : "F",
+          "amount" : 7300
+        } ],
+        "taxExemptIncome" : [ {
+          "code" : "L",
+          "amount" : 7400
+        } ],
+        "distributions" : [ {
+          "code" : "Q",
+          "amount" : 7500
+        } ],
+        "otherInfo" : [ {
+          "code" : "H",
+          "amount" : 7600
+        } ],
+        "foreignTaxPaid" : 3900,
+        "multipleAtRiskActivities" : true,
+        "multiplePassiveActivities" : true,
+        "supplemental" : {
+          "foreignPartnership" : true,
+          "farmActivity" : true,
+          "otherIncome" : {
+            "remicTaxableIncome" : 4000,
+            "remicExcessInclusion" : 4100,
+            "remicSection212" : 4200,
+            "recoveries" : 4300,
+            "gamblingWinnings" : 4400,
+            "gamblingLosses" : 4500,
+            "section751b" : 4600,
+            "speciallyAllocatedOrdinary" : 4700,
+            "speciallyAllocatedShortTerm" : 4800,
+            "speciallyAllocatedLongTerm" : 4900,
+            "speciallyAllocated28Percent" : 5000
+          },
+          "otherDeductions" : {
+            "taxes" : 5100,
+            "miscellaneous" : 5200,
+            "retirementPlanPayments" : [ {
+              "type" : "DEFINED_BENEFIT_PLAN",
+              "amount" : 5300
+            } ]
+          },
+          "alternativeMinimumTax" : {
+            "leasedPropertyDepreciation" : 5400,
+            "realPropertyDepreciation" : 5500,
+            "oilAndGas" : {
+              "grossIncome" : 5600,
+              "deductions" : 5700,
+              "excessIdc" : 5800,
+              "excessDepletion" : 5900
+            },
+            "geothermal" : {
+              "grossIncome" : 6000,
+              "deductions" : 6100,
+              "excessIdc" : 6200,
+              "excessDepletion" : 6300
+            }
+          },
+          "interestIncome" : {
+            "usTreasuryInterest" : 6400,
+            "usTreasuryDividends" : 6500,
+            "privateActivityBond" : 6600,
+            "stateTaxExemptInterest" : 6700,
+            "stateTaxExemptInterestAmounts" : [ {
+              "stateCode" : "AA",
+              "amount" : 6800
+            } ]
+          }
+        },
+        "statementA" : [ {
+          "businessDescription" : "businessDescription",
+          "publiclyTradedPartnership" : true,
+          "aggregated" : true,
+          "specifiedServiceBusiness" : true,
+          "ordinaryIncome" : 7700,
+          "rentalIncome" : 7800,
+          "royaltyIncome" : 7900,
+          "section1231Gain" : 8000,
+          "otherIncome" : 8100,
+          "section179Deduction" : 8200,
+          "otherDeductions" : 8300,
+          "w2Wages" : 8400,
+          "section199AWages" : 8500,
+          "qualifiedPropertyUbia" : 8600,
+          "section199ADividends" : 8700,
+          "selfEmployedHealthInsurance" : 8800,
+          "selfEmployedRetirement" : 8900
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        } ],
+        "statementC" : [ {
+          "businessDescription" : "businessDescription",
+          "publiclyTradedPartnership" : true,
+          "aggregated" : true,
+          "specifiedServiceBusiness" : true,
+          "ordinaryIncome" : 9000,
+          "rentalIncome" : 9100,
+          "royaltyIncome" : 9200,
+          "section1231Gain" : 9300,
+          "otherIncome" : 9400,
+          "section179Deduction" : 9500,
+          "otherDeductions" : 9600,
+          "w2Wages" : 9700,
+          "section199AWages" : 9800,
+          "section199ADividends" : 9900,
+          "selfEmployedHealthInsurance" : 10000,
+          "selfEmployedRetirement" : 10100
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        }, {
+          "publiclyTradedPartnership" : false,
+          "aggregated" : false,
+          "specifiedServiceBusiness" : false
+        } ]
+      }
+    } ],
+    "attributes" : [ ]
+  } ]
+}
